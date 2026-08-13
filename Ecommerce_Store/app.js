@@ -67,7 +67,7 @@ function addToCart(productId) {
   if (btn) {
     const originalText = btn.textContent;
     btn.textContent = "Added!";
-    btn.style.background = "#e2e8f0"; // Green flat
+    btn.style.background = "#e2e8f0";
     setTimeout(() => {
       btn.textContent = originalText;
       btn.style.background = "";
@@ -290,7 +290,6 @@ function renderProducts() {
   renderGrid();
 }
 
-// Global function to handle image switching in the gallery
 window.switchMainImage = function (src, el) {
   const mainImg = document.getElementById("main-product-image");
   mainImg.src = src;
@@ -310,7 +309,6 @@ function renderProduct(id) {
     return;
   }
 
-  // Check if we have multiple images, fallback if not
   const images =
     product.images && product.images.length > 0
       ? product.images
@@ -540,10 +538,6 @@ function renderCheckout() {
       clearCart();
     });
 }
-
-// ==========================================================================
-// Helper Components
-// ==========================================================================
 
 function createProductCard(product) {
   const mainImg =
