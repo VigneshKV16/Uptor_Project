@@ -1,0 +1,388 @@
+[
+  {
+    "id": 1,
+    "name": "HP OmniBook 5",
+    "price": 75000.0,
+    "category": "Laptops",
+    "description": "HP OmniBook 5 OLED (Previously Pavilion), Snapdragon X Processor 45 Tops (16GB LPDDR5x, 1 TB SSD), 2K 14''/35.6cm, Win11, Office24, Silver, 1.29kg, he0015QU, Multi-Day Battery, AI Laptop",
+    "images": [
+      "images/prod1-1.jpg",
+      "images/prod1-2.jpg",
+      "images/prod1-3.jpg"
+    ],
+    "features": [
+      "Processor, Memory & Storage: QC Snapdragon X1-26-100 (up to 3GHz max boost clock, 30 MB L3 cache, 8 cores, 8 threads)| Memory: 16 GB LPDDR5x -8448 MT/s (onboard)| Storage: 1 TB PCIe Gen4 NVMe M.2 SSD",
+      "Operating System & Preinstalled Software: Windows 11 Home Single Language | MS Office Home 2024 |1 year Microsoft 365 Basic Free|Display & Graphics: 14\" 2K (1920x1200) OLED Brightview Low Blue Light 300 nits|Graphics: Qualcomm Adreno GPU",
+      "Ports & Connectivity : 2 USB Type-C 10Gbps signaling rate (USB Power Delivery, DisplayPort 1.4a, HP Sleep and Charge), 1 USB Type-A 10Gbps signaling rate.| Connectivity: Qualcomm FastConnect Wi-Fi 6E (2x2) and Bluetooth 5.3 wireless card",
+      "Other Features: Camera: HP True Vision 1080p FHD camera with temporal noise reduction and integrated dual array digital microphones| Keyboard: Full-size, backlit, soft grey keyboard|Audio: Dual speakers| Battery type: 3-cell, 59 Wh Li-ion polymer",
+      "Up to 18 hours of battery life"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Lenovo IdeaPad Slim 3",
+    "price": 69990.0,
+    "category": "Laptops",
+    "description": "Lenovo IdeaPad Slim 3 13th Gen Intel Core i5-13420H 15.3 inch (38.8cm) WUXGA IPS Laptop (16GB RAM/512GB SSD/Windows 11/Office 2024/Top Metal Cover/Backlit KB/Luna Grey/1.6Kg), 83K101JEIN",
+    "images": [
+      "images/prod2-1.jpg",
+      "images/prod2-2.jpg",
+      "images/prod2-3.jpg"
+    ],
+    "features": [
+      "1Processor: Intel Core i5-13420H, 8C (4P + 4E) / 12T, P-core up to 4.6GHz, Ecore up to 3.4GHz, 12MB Intel Smart Cache",
+      "Display: 15.3\" WUXGA IPS (1920x1200) | 300Nits Brightness | Anti Glare |TUV Low Blue Light Certified",
+      "Memory and Storage: 16GB SODIMM DDR5-4800, Max Memory Up to 16GB DDR5-4800 offering | 512GB SSD M.2 2242 PCIe 4.0x4 NVMe, Max storage support Up to two drives, 2x M.2 SSD M.2 2242 SSD up to 1TB",
+      "OS and Software: Windows 11 Home Single Language, English | Office Home 2024",
+      "Design: 4 side narrow bezel | 1.79 cm Ultra Thin & 1.59 kg Light | Backlight Keyboard | Case Material: Aluminium (Top), PC-ABS (Bottom)"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Lenovo IdeaPad 5 2-in-1",
+    "price": 94900.0,
+    "category": "Laptops",
+    "description": "Lenovo IdeaPad 5 2-in-1 Intel Core Ultra 5 225H (16GB RAM/512GB SSD/14 (35.5cm)/WUXGA IPS/Windows 11/MS) 365 Basic+Office 2024/Lenovo Digital Pen 2/1Yr ADP/Grey/1.6Kg, 83KR0076IN Convertible Laptop",
+    "images": [
+      "images/prod3-1.jpg",
+      "images/prod3-2.jpg",
+      "images/prod3-3.jpg"
+    ],
+    "features": [
+      "Processor:Intel Core Ultra 5 225H, 14C (4P + 8E + 2LPE) / 14T, Max Turbo up to 4.9GHz, 18MB",
+      "Display: 14\" WUXGA IPS (1920x1200) | 300 Nits Brightness | Glossy |TÜV Low Blue Light | Glass | Touchscreen",
+      "Memory and Storage: 16GB Soldered LPDDR5x-8000, MoP Memory, Max Memory 16GB soldered memory, not upgradable | 512B SSD M.2 2242 PCIe 4.0x4 NVMe",
+      "OS and Software: Windows 11 Home Single Language, English | Microsoft 365 Basic + Office Home 2024 | Xbox GamePass Ultimate 3-month subscription",
+      "Design: 4 side narrow bezel | 1.75 cm Ultra Thin & 1.6 kg Light | Backlight Keyboard | Case Material: Aluminium (Top, PC-ABS + 40% GF (Bottom)"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Acer Smartchoice Aspire One",
+    "price": 36990.0,
+    "category": "Laptops",
+    "description": "Acer Smartchoice Aspire One, AMD Ryzen 3-7320U, 8GB LPDDR5 RAM/ 256GB SSD, 14.0\"/35.56cm TN HD Display, Win 11 Home, Pure Silver, 1.48KG, A114-43, Thin and Light Laptop",
+    "images": [
+      "images/prod4-1.jpg",
+      "images/prod4-2.jpg",
+      "images/prod4-3.jpg"
+    ],
+    "features": [
+      "Processor : Whether you're at home, school, or work, get all the performance you need with the latest AMD Ryzen 3-7320U Processor @ 2.4GHz ( 4 Cores, 4MB Cache, up to 4.1 GHz); maintaining order and keeping your apps running consistently and smoothly.",
+      "Operating System: Windows 11 Home |Preinstalled Software: None",
+      "Performance : 8GB LPDDR5 RAM for full-power multitasking; 256GB SSD; This thin and light laptop offers a good experience for watching videos, browsing the web, remote work, or study from home.",
+      "Display : 14.0-inch HD 1366 x 768 resolution display keeps images and videos stunning while the narrow border offers-up more viewable space. To protect user’s eyes from harmful blue light, it also includes Acer BlueLigh Shield.",
+      "Wireless Connectivity : Dual band Wi-Fi 5 (802.11a/b/g/n/ac) provides fast internet access. For enhanced video calls this laptop also includes and optimized camera and microphones.",
+      "Plenty of Ports : Flexible connectivity options through USB 2.0/ 3.0/3.2 ports. Users can also connect an external display through the HDMI port."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Lenovo Yoga Slim 7",
+    "price": 159990.0,
+    "category": "Laptops",
+    "description": "Lenovo Yoga Slim 7 AI Laptop PC 2025 Aura Edition, Intel Core Ultra 7 258V, 32GB RAM, 1TB SSD, OLED, Copilot AI Now, 47 Tops, 14\"/35.5cm, Win 11, Office 24,Grey, 1.2 Kg, 83JX001MIN, AI Laptop",
+    "images": [
+      "images/prod5-1.jpg",
+      "images/prod5-2.jpg",
+      "images/prod5-3.jpg"
+    ],
+    "features": [
+      "Processor: Intel Evo Core Ultra 7 258V | 8C (4P + 4LPE) / 8T, Max Turbo upto 4.8GHz | 8 Cores | 8 Threads | Cache: 12MB || NPU: Integrated Intel AI Boost, up to 47 TOPS",
+      "Display: 14\" WUXGA OLED (1920x1200) | 400Nits Typical Brightness, 600Nits Peak Brightness | 100% DCI-P3 |DisplayHDR True Black 500 | Dolby Vision | Anti Glare |TUV Low Blue Light Certified",
+      "Memory and Storage: 32GB Soldered LPDDR5x-8533, Max Memory Max Memory 32GB soldered memory, not upgradable | 1TB SSD M.2 2242 PCIe 4.0x4 NVMe",
+      "OS and Software: Windows 11 Home Single Language, English | Office Home 2024 | Lenovo AI Now | Xbox GamePass Ultimate 3-month subscription",
+      "Design: 4 side narrow bezel | 1.39 cm Ultra Thin & 1.19 kg Light | Backlight Keyboard | Case Material: Aluminium (Top), Aluminium (Bottom)"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "OnePlus 15R",
+    "price": 60000.0,
+    "category": "Smartphones",
+    "description": "OnePlus 15R | 12GB+256GB | Charcoal Black | World's First Snapdragon® 8 Gen 5 | 7400mAh Battery | Personalised AI | Game-Changing 165Hz Display | IP68 IP69 IP66 & IP69K | 4K 120fps Video",
+    "images": [
+      "images/prod6-1.jpg",
+      "images/prod6-2.jpg",
+      "images/prod6-3.jpg"
+    ],
+    "features": [
+      "World's first Snapdragon 8 Gen 5 - The OnePlus 15R unchains the soul of a dragon. Paired with LPDDR5X Ultra and UFS 4.1, the Snapdragon 8 Gen 5 is a lightning storm of benchmark-breaking power — every swipe instant, your app explodes open, and 120 FPS gaming is truly silky-smooth.",
+      "Tri-Chips for Ultimate Performance - With a blazing 165 Hz refresh rate, the OnePlus 15R features the OP Gaming Core engine, a dedicated G2 Wi‑Fi chip and a high‑speed touch‑response chip for ultra‑low latency and flawless control.",
+      "Impossibly Smooth - 165Hz Display - Witness the 165Hz, 1.5K flagship display perfected for lightning-fast visuals that flow",
+      "Power Up Not Down - Our largest-ever 7,400mAh battery powers your unplugged life. Plus, with Bypass Charging, you can keep gaming all the way to the victory screen—stay powered up without powering down.",
+      "Meet Plus Mind - The world’s first AI tool built to work seamlessly with Gemini. It intelligently captures, organizes, and recalls everything you see, so every idea, date, or detail is always within reach. Plan trips, surface information from screenshots, and relive moments effortlessly — all from your Mind Space app, powered by OnePlus AI."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Samsung Galaxy S25 Ultra",
+    "price": 95000.0,
+    "category": "Smartphones",
+    "description": "Samsung Galaxy S25 Ultra 5G AI Smartphone (Titanium Silverblue, 12GB RAM, 256GB Storage), 200MP Camera, S Pen Included, Long Battery Life",
+    "images": [
+      "images/prod7-1.jpg",
+      "images/prod7-2.jpg",
+      "images/prod7-3.jpg"
+    ],
+    "features": [
+      "Galaxy AI and Now Brief - Enter the new era of 5G smartphone AI with a companion that stays one-step ahead of your needs. Let natural conversation guide you through everyday tasks without switching between multiple apps, while Now Brief keeps you updated with your schedule, reminders, battery status, and Energy Score, all within One UI.",
+      "Gemini Live - Get real-time answers and ideas with Gemini Live. Chat freely, attach images, and prepare for presentations with responses that adapt to your style.",
+      "Ultra Wide Camera - Capture razor-sharp details from Wide to Telephoto and even Ultra Wide. Whether shooting landscapes or zoomed-in portraits, the AI-enhanced ProVisual Engine and 200 MP camera deliver vivid colors with exceptional clarity. Showcased beautifully on immersive display",
+      "Snapdragon 8 Elite - Experience unmatched power with the Snapdragon 8 Elite processor, custom-tuned for Galaxy. Enjoy smoother gaming, real-time ray tracing, and advanced Vulkan optimization for immersive gameplay.",
+      "Knox Security and Samsung Wallet – Safeguard your data with defense-grade Knox security and enjoy fast, reliable, and secure payments anywhere with Samsung Wallet."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "VIVO X300 FE 5G",
+    "price": 90000.0,
+    "category": "Smartphones",
+    "description": "Vivo X300 FE 5G (Lilac Purple, 12GB RAM, 256GB Storage).",
+    "images": [
+      "images/prod8-1.jpg",
+      "images/prod8-2.jpg",
+      "images/prod8-3.jpg"
+    ],
+    "features": [
+      "[Capture Every Detail]: Shoot stunning, blur-free photos with a pro-level camera system featuring a 50MP ZEISS Main Camera (with OIS) IMX921 sensor, a 50MP ZEISS Telephoto Camera (with OIS) IMX882 sensor, and an 8MP Ultra Wide-Angle Camera. Enhance your shots with the ZEISS Multifocal Portrait for studio-quality depth, use the AI Creative Camera for intelligent scene optimization and instantly transfer your media with Shake & Share.",
+      "[Flawless Selfies]: The 50MP ZEISS Wide-Angle Front Camera ensures you always look your best, delivering crisp, vibrant portraits and high-quality video calls.",
+      "[Next-Gen Power]: Run your favorite apps, multitask, and game smoothly with the cutting-edge Snapdragon 8 Gen 5 processor.",
+      "[Ample Storage & Lightning Speed]: Enjoy fast app loading and plenty of space for your memories with 12GB of LPDDR5X Ultra RAM and 256GB of fast UFS 4.1 internal storage.",
+      "[Immersive 120Hz Display]: Dive into movies and games on the gorgeous 16.04cm (6.31\") AMOLED Compact Screen , featuring a sharp 2640 × 1216 resolution and a hyper-smooth 120Hz refresh rate."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Apple iPhone 17 Pro",
+    "price": 148990.0,
+    "category": "Smartphones",
+    "description": "Apple iPhone 17 Pro 512 GB: 15.93 cm (6.3″) Display with Promotion up to 120Hz, A19 Pro Chip, Breakthrough Battery Life, Pro Fusion Camera System with Center Stage Front Camera; Deep Blue",
+    "images": [
+      "images/prod9-1.jpg",
+      "images/prod9-2.jpg",
+      "images/prod9-3.jpg"
+    ],
+    "features": [
+      "UNIBODY DESIGN. FOR EXCEPTIONAL POWER — Heat-forged aluminium unibody enclosure for the most powerful iPhone ever made.",
+      "DURABLE CERAMIC SHIELD. FRONT AND BACK — Ceramic Shield protects the back of iPhone 17 Pro Max, making it 4x more resistant to cracks. And the new Ceramic Shield 2 on the front has 3x better scratch resistance.",
+      "THE ULTIMATE PRO CAMERA SYSTEM — With all 48MP rear cameras and 8x optical-quality zoom — the longest zoom ever on an iPhone. It’s the equivalent of 8 pro lenses in your pocket.",
+      "18MP CENTER STAGE FRONT CAMERA — Flexible ways to frame your shot. Smarter group selfies, Dual Capture video for simultaneous front and rear recording, and more.",
+      "A19 PRO CHIP. VAPOUR COOLED. LIGHTNING FAST — A19 Pro is the most powerful iPhone chip yet, delivering up to 40% better sustained performance."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "iQOO 15",
+    "price": 76998.0,
+    "category": "Smartphones",
+    "description": "iQOO 15 (Apex 2026, 12GB RAM, 256GB Storage) |Fastest Snapdragon 8 Elite Gen 5 Processor* | Samsung 2K M14 Lead OLED Display | Origin OS 6 with Personalized AI Features",
+    "images": [
+      "images/prod10-1.jpg",
+      "images/prod10-2.jpg",
+      "images/prod10-3.jpg"
+    ],
+    "features": [
+      "PERFORMANCE: Fastest Snapdragon 8 Elite Gen 5 Processor with TSMC's 3 nm process technology, and an impressive 4Mn+ AnTuTu score. In addition to that, it has LPDDR5X Ultra flagship-level RAM with UFS 4.1 Ultra-fast storage speed, 7000 mAh 4th Gen Silicon Anode Battery with 100W FlashCharge and 40W wireless charging.",
+      "DISPLAY: Samsung 2K M14 LEAD OLED Display for the first time ever in android, and up to 6000 nits Local Peak Brightness for stunning outdoor visibility.",
+      "GAMING: Supercomputing chip Q3, 2K + 144 FPS gaming for higher energy efficiency. iQOO’s 1st internally developed Game Livestreaming Assistant, PC-Grade Ray tracing technology and India's Largest Single Layer VC cooling system with 8000 mm².",
+      "TRIPLE CAMERA SETUP: 50MP Sony 3X Periscope Camera, 50MP Sony VCS True Color Camera, 50MP Ultra Wide-Angle Camera with an Upgraded 32MP Selfie Camera and 4k Video Recording along with AI visual effects and AI reflection erase.",
+      "OPERATING SYSTEM: OriginOS 6, Out of the Box with 5 years of OS updates and 7 years of security patches. It comes with Origin Island, Office Kit and Lock Screen Customization."
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Apple AirPods 4",
+    "price": 17725.0,
+    "category": "Audio",
+    "description": "Apple AirPods 4 Wireless Earbuds, Bluetooth Headphones, with Active Noise Cancellation, Adaptive Audio, Transparency Mode, Personalised Spatial Audio, USB-C Charging Case, Wireless Charging, H2 Chip",
+    "images": [
+      "images/prod11-1.jpg",
+      "images/prod11-2.jpg",
+      "images/prod11-3.jpg"
+    ],
+    "features": [
+      "ULTIMATE OVER-EAR LISTENING EXPERIENCE — Apple-designed dynamic driver provides high-fidelity audio. Computational audio combines custom acoustic design with the Apple H1 chip and software for breakthrough listening experiences.",
+      "FIVE FRESH COLOURS — AirPods Max come in five fresh colours: Midnight, Starlight, Blue, Purple and Orange. A colour-matched Smart Case is also included.",
+      "FOCUS ON WHAT’S PLAYING — Pro-level Active Noise Cancellation removes up to 2x more background noise, so you can immerse yourself in music.",
+      "HEAR THE WORLD AROUND YOU — Transparency mode lets you comfortably hear and interact with the world around you.",
+      "PERSONALISED SPATIAL AUDIO — With sound that suits your unique ear shape along with dynamic head tracking, AirPods Max deliver an immersive listening experience that places sound all around you. You can also listen to selected songs, shows and movies in Dolby Atmos."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Apple AirPods Max 2",
+    "price": 67900.0,
+    "category": "Audio",
+    "description": "AirPods Max 2. With up to 1.5x more Active Noise Cancellation than the previous generation, and improved high-fidelity audio—it's the ultimate over-ear listening experience.",
+    "images": [
+      "images/prod12-1.jpg",
+      "images/prod12-2.jpg",
+      "images/prod12-3.jpg"
+    ],
+    "features": [
+      "ULTIMATE OVER-EAR LISTENING EXPERIENCE — Powered by the H2 chip, AirPods Max 2 delivers improved high-fidelity audio with deep bass, expansive mids and crisp highs for an unparalleled listening experience.",
+      "TUNE OUT THE NOISE — Up to 1.5x more Active Noise Cancellation than the previous generation, fully immersing you in every sound.",
+      "HEAR THE WORLD AROUND YOU — Adaptive Audio automatically adjusts noise cancellation levels to suit your environment. Conversation Awareness lowers the volume of what’s playing to make it easy to talk to those around you. And Transparency lets outside sounds in so you can interact with your surroundings.",
+      "PERSONALISED SPATIAL AUDIO — With sound tuned to your unique ear shape and dynamic head tracking, AirPods Max 2 delivers an immersive listening experience that surrounds you with theatre-like sound.",
+      "COMMUNICATE ACROSS LANGUAGES — Simply press and hold the listening mode button to activate Live Translation powered by Apple Intelligence, which automatically translates the language someone is speaking into your preferred language.",
+      "ACOUSTIC-FIRST DESIGN — Designed with a breathable knit-mesh canopy, memory foam and custom textile ear cushions, and telescoping arms for an exceptional over-ear fit. Available in five vibrant colours.",
+      "LOSSLESS AUDIO WITH USB-C — Experience every detail of the original recording when connecting AirPods Max 2 to your device via USB-C. And you can charge your AirPods Max 2 with the same cable you use to charge your other Apple devices.",
+      "ALL-DAY BATTERY LIFE — Up to 20 hours of listening or movie watching on a single charge with Active Noise Cancellation and Spatial Audio enabled."
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Marshall Minor IV",
+    "price": 9999.0,
+    "category": "Audio",
+    "description": "Marshall Minor Iv Wireless in Ear Earbuds with 30+ Hours of Playtime, Water-Resistant, Wireless Charging- Cream",
+    "images": [
+      "images/prod13-1.jpg",
+      "images/prod13-2.jpg",
+      "images/prod13-3.jpg"
+    ],
+    "features": [
+      "MARSHALL SIGNATURE SOUND - Marshall signature sound always takes centre stage in our products and Minor IV is no different. Hit play and you'll unleash an expertly balanced sound that commands attention.",
+      "30+ HOURS OF WIRELESS PLAYTIME - Don’t get stranded without music when you need it most. Minor IV packs 30+ hours of wireless playtime. It’s got everything you need to keep the music playing and keep you moving, all day long.",
+      "RE-DESIGNED FOR SUPERIOR COMFORT - When you’re listening to music, one track is never enough, so the Minor IV earbuds are built to handle your longest playlist in total comfort.",
+      "CONTROL AND CUSTOMISE YOUR SOUND - Minor IV makes your life easy. Use the touch-sensitive earbuds to navigate playback and manage calls. Connect to multiple devices simultaneously with Bluetooth multipoint connectivity. Personalise music to your taste by downloading Marshall’s dedicated app.",
+      "MAKE YOUR EARBUDS LAST LONGER - Extend the lifetime of your Minor IV earbuds by switching on our in-app battery preservation feature, downloading Over-the-Air (OTA) updates and, when needed, replacing spare parts."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Samsung Galaxy Buds4",
+    "price": 11999.0,
+    "category": "Audio",
+    "description": "Samsung Galaxy Buds4 (Black) in-Ear Wireless Earbuds with Hi-Fi Audio | Adaptive ANC and EQ 2.0 | 360-Audio | Live Translation | Head Gesture Control | IP54",
+    "images": [
+      "images/prod14-1.jpg",
+      "images/prod14-2.jpg",
+      "images/prod14-3.jpg"
+    ],
+    "features": [
+      "[Design] The new blade design with a metallic cradle exudes a premium look. The ergonomically engineered open-type buds ensure a snug, angled fit to seal in sound and deliver an immersive listening experience.",
+      "[Hi-Fi Audio] Elevate your audio experience with Hi-Fi Audio that supports 24-bit/96kHz codecs, providing an ultra-high-quality, studio-grade sound experience. Enjoy every beat of the music, from the deepest lows to the most delicate highs.",
+      "[Adaptive ANC] Immerse yourself in sound with adaptive ANC, which cuts out unwanted noise and lets you focus on what matters. With Adaptive EQ 2.0, bass, treble, and tone are automatically tailored to fit your mood and taste.",
+      "[Live Translation] Break language barriers instantly. With real-time Live Translation, your conversations are interpreted on the fly and simultaneously displayed on your Galaxy smartphone, making multilingual conversations effortless.",
+      "[Hands-Free Control] Stay in control without touching your phone. When paired with your Galaxy smartphone, you can intuitively accept or reject calls, and talk to Bixby using simple head gestures."
+    ]
+  },
+  {
+    "id": 15,
+    "name": "GOBOULT Mustang Torq",
+    "price": 1799.0,
+    "category": "Audio",
+    "description": "GOBOULT Mustang Torq Wireless in Ear Earbuds with 60H Playtime, App Support, Quad Mic ENC, 45ms Low Latency, 13mm Driver, Breathing LEDs, Made in India Ear Buds Wireless (Yellow)",
+    "images": [
+      "images/prod15-1.jpg",
+      "images/prod15-2.jpg",
+      "images/prod15-3.jpg"
+    ],
+    "features": [
+      "GOBOULT x Mustang Collaboration: Experience the ultimate fusion of world-class design, advanced tech, and exhilarating speed. Inspired by the Ford Mustang, these earbuds deliver iconic aesthetics with cutting-edge audio performance.",
+      "Amp App Connectivity: Personalize your sound with the Amp App. Customize EQ modes, assign touch gestures, and ensure optimal performance with the Quick Cleanup feature.",
+      "Zen Quad Mic ENC: Advanced Environmental Noise Cancellation (ENC) with quad microphones ensures crystal-clear calls, even in noisy environments.",
+      "60 Hours Playtime: Extended battery life of up to 60 hours, keeping your music and calls uninterrupted on long journeys or gaming marathons.",
+      "45ms Low Latency Gaming: Ultra-low latency (45ms) for lag-free gaming and real-time audio synchronization, ensuring a seamless competitive edge.",
+      "Blink & Pair BT 5.4: Instant auto-pairing with the latest Bluetooth 5.4 for stable, high-speed connectivity and low power consumption.",
+      "Dynamic EQ Modes: Fine-tune your sound experience with multiple EQ modes, adjusting bass, treble, and mids for an immersive listening session."
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Apple iPad Pro [11″] (M5)",
+    "price": 235900.0,
+    "category": "Tablets",
+    "description": "Apple iPad Pro [11″] (M5): Ultra Retina XDR Display, [1TB], 12MP Front Camera / 12MP Back Camera, Wi-Fi 7 with Apple N1 + 5G Cellular, Face ID, All-Day Battery Life — Silver",
+    "images": [
+      "images/prod16-1.jpg",
+      "images/prod16-2.jpg",
+      "images/prod16-3.jpg"
+    ],
+    "features": [
+      "WHY IPAD PRO — iPad Pro with the Apple M5 chip delivers extraordinary performance for effortless productivity on a stunning display. Take on pro workflows with Neural Accelerators for AI and a redesigned iPadOS with game-changing capabilities.",
+      "PERFORMANCE AND STORAGE — iPad Pro with M5 brings next-generation speed and the power of on-device AI to all your tasks.* Featuring up to 2TB of storage, 16GB of unified memory and Neural Accelerators for next-level AI performance.",
+      "IPADOS — Run pro apps and get more done with iPadOS 26 with Liquid Glass design and game-changing capabilities. With an intuitive and flexible windowing system, you can control, organise and manage your workflows like never before",
+      "APPLE INTELLIGENCE — Apple Intelligence is the personal intelligence system that helps you communicate, express yourself and get things done effortlessly with groundbreaking privacy protections at every step.",
+      "[28.22 cm (11″) / 33.02 cm (13″)] ULTRA RETINA XDR DISPLAY — The world’s most advanced display, featuring extreme brightness, precise contrast, ProMotion, P3 wide colour and True Tone. Nano-texture display glass is available in 1TB and 2TB configurations."
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Apple iPad Air 11 (M3)",
+    "price": 124999.0,
+    "category": "Tablets",
+    "description": "Apple iPad Air 11″ with M3 chip: Built for Apple Intelligence, Liquid Retina Display, 1TB, 12MP Front/Back Camera, Wi-Fi 6E + 5G Cellular, Touch ID, All-Day Battery Life — Purple",
+    "images": [
+      "images/prod17-1.jpg",
+      "images/prod17-2.jpg",
+      "images/prod17-3.jpg"
+    ],
+    "features": [
+      "WHY IPAD AIR — iPad Air is powerful, versatile and comes in a choice of two sizes. Featuring the incredible performance of the M3 chip built for Apple Intelligence and a stunning Liquid Retina display along with Touch ID, advanced cameras, blazing-fast Wi-Fi 6E and a USB-C connector.* Plus powerful productivity features in iPadOS and support for both next-generation Apple Pencil Pro and an advanced typing experience with Magic Keyboard.",
+      "APPLE INTELLIGENCE — Apple Intelligence is the personal intelligence system that helps you write, express yourself and get things done effortlessly.* With groundbreaking privacy protections integrated into the core of iPad, it gives you peace of mind that no one else can access your data — not even Apple.",
+      "PERFORMANCE AND STORAGE — M3 is a powerful chip built for Apple Intelligence that brings amazing performance for advanced creative and product tasks, graphic-intensive games and smooth multitasking. And with all-day battery life, you can keep working and playing wherever you go",
+      "11 LIQUID RETINA DISPLAY — The gorgeous Liquid Retina display features advanced technologies like P3 wide colour, True Tone and ultra-low reflectivity, which make everything look stunning",
+      "IPADOS + APPS — iPadOS makes iPad more productive, intuitive and versatile. With iPadOS, run multiple apps at once, use Apple Pencil to write in any text field with Scribble, and edit and share photos.* Stage Manager makes multitasking easy with resizable, overlapping apps and external display support. iPad Air comes with essential apps like Safari, Messages and Keynote, with over a million more apps designed specifically for iPad available on the App Store"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "OnePlus Pad 2 (12.1 Inch)",
+    "price": 31999.0,
+    "category": "Tablets",
+    "description": "OnePlus Pad 2 (12.1 Inch),12GB RAM, 256GB Storage Snapdragon 8 Gen 3,144Hz Refresh Rate, 6 Speakers, 3K 12.1 Display, AI Features, 9610 mAh Battery, Wi-Fi with Cellular Data Sharing [Nimbus Gray]",
+    "images": [
+      "images/prod18-1.jpg",
+      "images/prod18-2.jpg",
+      "images/prod18-3.jpg"
+    ],
+    "features": [
+      "[Fastest Performance with Snapdragon 8 Gen 3]: The upgraded Qualcomm Adreno GPU yields 25% faster graphics rendering and 25% improved GPU power efficiency, enhancing gaming and streaming.",
+      "[Pro-level high fps gaming experience]: 144Hz refresh rate ensures ultra-smooth, high-FPS visuals. Snapdragon 8 Gen 3 delivers lag-free, stable gameplay.",
+      "[Cinematic experience with 12.1\" 3K Display]: 3K Display (30.73cm), 7:5 ReadFit ratio; Display type: IPS LCD; Display resolution: 3000 x 2120 Dolby Vision display, 304 PPI; Peak Display brightness (900 nits)",
+      "[6 Omnibearing Speakers]: Equipped with 6 speakers (3 on each side), it delivers a more impactful bass effect, clearer high-frequency performance, and a more immersive stereo sound experience.",
+      "[Battery & Charging]: 9510mAh Battery with 67W SUPERVOOC fast charging which can fully charge the Pad 2 in just 80 minutes."
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Lenovo Idea Tab Pro",
+    "price": 34999.0,
+    "category": "Tablets",
+    "description": "Lenovo Idea Tab Pro with Pen Plus | 12.7\" 3K Display | 144 Hz Refresh|12 GB RAM, 256 GB ROM| AI-Enabled| MediaTek Dimensity 8300|Quad JBL Speakers|10200 mAh Battery with 45 W Charger|WiFi 6e",
+    "images": [
+      "images/prod19-1.jpg",
+      "images/prod19-2.jpg",
+      "images/prod19-3.jpg"
+    ],
+    "features": [
+      "Productivity Without Compromise: Powered by the AI-enabled MediaTek Dimensity 8300 and 12GB RAM, the Idea Tab Pro handles demanding multitasking, document editing, and video conferencing with ease — while the included Pen Plus lets you annotate, sketch, and take handwritten notes on a stunning 12.7-inch 3K display, making it a true laptop replacement for professionals on the go.",
+      "Ultra-Smooth Visuals with Stunning Clarity – From work presentations to streaming and gaming, the large 12.7-inch display delivers vivid detail with its sharp 2944 × 1840 resolution. The 144Hz refresh rate provides fluid motion and seamless scrolling, while 400 nits brightness enhances visibility for comfortable everyday use.",
+      "Built for Speed, Productivity, and Connectivity – Featuring the MediaTek Dimensity 8300 octa-core chipset, this device is designed to handle multitasking, streaming, gaming, and creative work with ease. The advanced 4nm chip design improves power efficiency, while 256GB storage and Wi-Fi 6 deliver fast file access and reliable high-speed connectivity.",
+      "Faster Performance with Expandable Storage Flexibility – Experience efficient multitasking and quick data access with 12GB LPDDR5x RAM and advanced 256GB UFS 4.0 storage. With support for expandable storage up to 1TB via microSD card, you can easily store large files, videos, documents, and apps without compromise.",
+      "Cinematic Audio with Productivity-Focused Cameras – From streaming and gaming to work and video calls, the quad JBL speakers with Dolby Atmos deliver room-filling sound and enhanced clarity. The 8MP front camera ensures smooth virtual communication, while the 13MP rear camera with flashlight adds convenience for capturing documents, presentations, and everyday moments."
+    ]
+  },
+  {
+    "id": 20,
+    "name": "OnePlus Pad 4",
+    "price": 59999.0,
+    "category": "Tablets",
+    "description": "OnePlus Pad 4, Snapdragon® 8 Elite Gen 5 Platform, 33.53cm 13.2\" 3.4K Screen, 144Hz Adaptive, 8 Speakers, AI Powered, PC-Level Productivity, 13, 380 mAh Battery, 8GB + 256GB, WiFi, Dune Glow",
+    "images": [
+      "images/prod20-1.jpg",
+      "images/prod20-2.jpg",
+      "images/prod20-3.jpg"
+    ],
+    "features": [
+      "[Snapdragon 8 Elite Gen 5 | The World’s Fastest Mobile System-on-a-chip] : Extreme performance with high efficiency | 3nm flagship chip with 3rd-gen Oryon CPU and next-gen Adreno GPU | 20% faster CPU, 23% faster GPU with lower power consumption | 4,186,268 AnTuTu score",
+      "[Cryo-Velocity Cooling System | 40,760 mm² Cooling Area] : Keeps performance stable during heavy use while staying cool to hold | Vapor chamber + multi-layer graphite cooling, 17% larger cooling area vs previous gen",
+      "[AI Smart Antenna Design | Industry-first Hybrid Design] : Enjoy exceptional signal strength and uninterrupted connectivity across spaces | Magnetic loop + cavity antenna system with real-time signal switching for strongest connectivity | Up to 96% faster uploads, 120% faster downloads, 43% faster streaming, 50% faster gaming| *This feature is only supported in Wi-Fi 5G environments; Wi-Fi 2.4G is not supported",
+      "[33.53 cm (13.2”) Ultra-Large Display | 7:5 Aspect Ratio] : Ideal for reading, multitasking, drawing and immersive viewing | Massive 33.53cm screen with 89.4% screen-to-body ratio | More usable screen area vs traditional tablets",
+      "[8-Speaker Hi-Fi System | Spatial Audio] : Deep bass, crisp highs, immersive cinematic sound | Four woofers + four tweeters in symmetrical layout | Audio adapts to orientation for balanced output"
+    ]
+  }
+]
